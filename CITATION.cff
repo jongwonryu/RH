@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use the RH benchmark questions, please cite the paper below."
+title: "Representativeness Heuristics benchmark questions"
+type: dataset
+authors:
+  - family-names: Ryu
+    given-names: Jongwon
+  - family-names: Kim
+    given-names: Jungeun
+  - family-names: Kim
+    given-names: Junyeong
+url: "https://github.com/jongwonryu/RH"
+preferred-citation:
+  type: article
+  title: "A Study on the Representativeness Heuristics Problem in Large Language Models"
+  authors:
+    - family-names: Ryu
+      given-names: Jongwon
+    - family-names: Kim
+      given-names: Jungeun
+    - family-names: Kim
+      given-names: Junyeong
+  journal: IEEE Access
+  volume: "12"
+  start: "147958"
+  end: "147966"
+  year: 2024
+  doi: "10.1109/ACCESS.2024.3474677"
